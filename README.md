@@ -37,16 +37,17 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## GitHub Stats
-
-![Kimzooci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimzooci&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimzooci&layout=compact&theme=radical)
-
 ### Collaboration Tools
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+## GitHub Stats
+
+![Kimzooci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimzooci&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimzooci&layout=compact&theme=radical)
+
 
 
 Thanks for stopping by! 😊
