@@ -1,6 +1,9 @@
-# Hi there, I'm Kimzooci! 👋
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F66AD&height=300&text=&fontSize=50&fontColor=ffffff&section=header" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kimzooci)
+</div>
+<br>
+
 
 ## About Me
 
