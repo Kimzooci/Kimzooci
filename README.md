@@ -33,6 +33,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-1E6BEB?style=for-the-badge&logo=Amplitude&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
